@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Clima</string>
+    <string name="_0">0°</string>
+    <string name="textview">TextView</string>
+    <string name="valledupar">Valledupar</string>
+    <string name="soleado">Soleado</string>
+    <string name="grados_text">35°</string>
+    <string name="ciudad_text">Cartagena</string>
+    <string name="clima_text">Nublado</string>
+    <string name="texto_bienvenida">Bienvenido a la App del clima</string>
+    
+    <string name="text_boton_valledupar">Clima de valledupar</string>
+</resources>
